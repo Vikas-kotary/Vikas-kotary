@@ -15,9 +15,6 @@ Hey! Hope everything's going well for you:)<br><br>Tech Enthusiast | Aspiring So
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vikas kotary &theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vikas kotary &limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
